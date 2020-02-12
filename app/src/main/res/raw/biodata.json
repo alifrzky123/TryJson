@@ -1,0 +1,19 @@
+{
+  "person": {
+    "nama": "Astria Anastasya",
+    "umur": 21,
+    "kelamin": "Perempuan",
+    "address": [
+      {
+        "alamatInt": "Home",
+        "alamatLengkap": "Jl. Sorga",
+        "kota": "Jekartah"
+      },
+      {
+        "alamatInt": "Kantor",
+        "alamatLengkap": "Jl. Jalan",
+        "kota": "Jekartah"
+      }
+    ]
+  }
+}
